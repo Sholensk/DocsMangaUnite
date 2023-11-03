@@ -1,0 +1,408 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.26)  3 NOV 2023 17:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ProyectoDeApp.tex
+(ProyectoDeApp.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/09/29 v3.95 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen143
+\l@unhyphenated=\language79
+
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks20
+\es@quotdepth=\count195
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
+-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-10-10 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box51
+) (ProyectoDeApp.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `ProyectoDeApp.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen145
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+ (C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\shole\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ [1
+
+{C:/Users/shole/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(ProyectoDeApp.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `ProyectoDeApp.toc'.
+
+ [1] [2]
+<Screenshot 2023-10-05 125036.png, id=15, 577.40718pt x 230.36063pt>
+File: Screenshot 2023-10-05 125036.png Graphic file (type png)
+<use Screenshot 2023-10-05 125036.png>
+Package pdftex.def Info: Screenshot 2023-10-05 125036.png  used on input line 6
+5.
+(pdftex.def)             Requested size: 390.0pt x 155.59918pt.
+ [3 <./Screenshot 2023-10-05 125036.png>]
+<Captura de pantalla 2023-09-07 124622.png, id=21, 871.75688pt x 584.93532pt>
+File: Captura de pantalla 2023-09-07 124622.png Graphic file (type png)
+<use Captura de pantalla 2023-09-07 124622.png>
+Package pdftex.def Info: Captura de pantalla 2023-09-07 124622.png  used on inp
+ut line 75.
+(pdftex.def)             Requested size: 390.0pt x 261.68329pt.
+ [4 <./Captura de pantalla 2023-09-07 124622.png>]
+<Componentes.jpg, id=26, 963.6pt x 529.22719pt>
+File: Componentes.jpg Graphic file (type jpg)
+<use Componentes.jpg>
+Package pdftex.def Info: Componentes.jpg  used on input line 85.
+(pdftex.def)             Requested size: 331.50238pt x 182.06674pt.
+ [5 <./Componentes.jpg>]
+<Screenshot 2023-10-05 114250.png, id=30, 574.39594pt x 462.22687pt>
+File: Screenshot 2023-10-05 114250.png Graphic file (type png)
+<use Screenshot 2023-10-05 114250.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114250.png  used on input line 9
+5.
+(pdftex.def)             Requested size: 390.0pt x 313.8446pt.
+ [6 <./Screenshot 2023-10-05 114250.png>]
+<Screenshot 2023-10-05 114350.png, id=36, 627.09282pt x 578.91281pt>
+File: Screenshot 2023-10-05 114350.png Graphic file (type png)
+<use Screenshot 2023-10-05 114350.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114350.png  used on input line 1
+05.
+(pdftex.def)             Requested size: 390.0pt x 360.04408pt.
+ [7 <./Screenshot 2023-10-05 114350.png>]
+<Screenshot 2023-10-05 114415.png, id=41, 445.665pt x 635.37375pt>
+File: Screenshot 2023-10-05 114415.png Graphic file (type png)
+<use Screenshot 2023-10-05 114415.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114415.png  used on input line 1
+15.
+(pdftex.def)             Requested size: 292.5pt x 417.01147pt.
+<Screenshot 2023-10-05 114426.png, id=42, 445.665pt x 618.81187pt>
+File: Screenshot 2023-10-05 114426.png Graphic file (type png)
+<use Screenshot 2023-10-05 114426.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114426.png  used on input line 1
+21.
+(pdftex.def)             Requested size: 390.0pt x 541.52516pt.
+
+
+LaTeX Warning: Float too large for page by 7.52516pt on input line 123.
+
+<Screenshot 2023-10-05 114437.png, id=43, 423.08063pt x 591.71063pt>
+File: Screenshot 2023-10-05 114437.png Graphic file (type png)
+<use Screenshot 2023-10-05 114437.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114437.png  used on input line 1
+27.
+(pdftex.def)             Requested size: 390.0pt x 545.46384pt.
+
+LaTeX Warning: Float too large for page by 11.46384pt on input line 129.
+
+<Screenshot 2023-10-05 114448.png, id=44, 423.83344pt x 572.1375pt>
+File: Screenshot 2023-10-05 114448.png Graphic file (type png)
+<use Screenshot 2023-10-05 114448.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114448.png  used on input line 1
+33.
+(pdftex.def)             Requested size: 390.0pt x 526.48637pt.
+<Screenshot 2023-10-05 114459.png, id=45, 470.50781pt x 593.96906pt>
+File: Screenshot 2023-10-05 114459.png Graphic file (type png)
+<use Screenshot 2023-10-05 114459.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114459.png  used on input line 1
+39.
+(pdftex.def)             Requested size: 390.0pt x 492.34164pt.
+[8 <./Screenshot 2023-10-05 114415.png>] [9 <./Screenshot 2023-10-05 114426.png
+>] [10 <./Screenshot 2023-10-05 114437.png>] [11 <./Screenshot 2023-10-05 11444
+8.png>] [12 <./Screenshot 2023-10-05 114459.png>]
+<Screenshot 2023-10-05 114526.png, id=67, 389.95688pt x 604.50844pt>
+File: Screenshot 2023-10-05 114526.png Graphic file (type png)
+<use Screenshot 2023-10-05 114526.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114526.png  used on input line 1
+49.
+(pdftex.def)             Requested size: 272.99881pt x 423.21759pt.
+<Screenshot 2023-10-05 114539.png, id=68, 341.77687pt x 591.71063pt>
+File: Screenshot 2023-10-05 114539.png Graphic file (type png)
+<use Screenshot 2023-10-05 114539.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114539.png  used on input line 1
+55.
+(pdftex.def)             Requested size: 390.0pt x 675.24332pt.
+
+
+LaTeX Warning: Float too large for page by 141.24332pt on input line 157.
+
+<Screenshot 2023-10-05 114707.png, id=69, 330.48468pt x 550.30594pt>
+File: Screenshot 2023-10-05 114707.png Graphic file (type png)
+<use Screenshot 2023-10-05 114707.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114707.png  used on input line 1
+61.
+(pdftex.def)             Requested size: 292.5pt x 487.07532pt.
+<Screenshot 2023-10-05 114715.png, id=70, 354.57469pt x 444.15938pt>
+File: Screenshot 2023-10-05 114715.png Graphic file (type png)
+<use Screenshot 2023-10-05 114715.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114715.png  used on input line 1
+67.
+(pdftex.def)             Requested size: 390.0pt x 488.5497pt.
+<Screenshot 2023-10-05 114725.png, id=71, 280.04625pt x 608.2725pt>
+File: Screenshot 2023-10-05 114725.png Graphic file (type png)
+<use Screenshot 2023-10-05 114725.png>
+Package pdftex.def Info: Screenshot 2023-10-05 114725.png  used on input line 1
+73.
+(pdftex.def)             Requested size: 292.5pt x 635.35437pt.
+
+LaTeX Warning: Float too large for page by 86.85437pt on input line 175.
+
+[13 <./Screenshot 2023-10-05 114526.png>] [14 <./Screenshot 2023-10-05 114539.p
+ng>] [15 <./Screenshot 2023-10-05 114707.png>] [16 <./Screenshot 2023-10-05 114
+715.png>] [17 <./Screenshot 2023-10-05 114725.png>]
+<Diagrama_estado.png, id=92, 567.11874pt x 550.055pt>
+File: Diagrama_estado.png Graphic file (type png)
+<use Diagrama_estado.png>
+Package pdftex.def Info: Diagrama_estado.png  used on input line 183.
+(pdftex.def)             Requested size: 331.50238pt x 321.53328pt.
+ [18 <./Diagrama_estado.png>]
+<mapa_sitio.jpg, id=98, 740.7675pt x 232.87pt>
+File: mapa_sitio.jpg Graphic file (type jpg)
+<use mapa_sitio.jpg>
+Package pdftex.def Info: mapa_sitio.jpg  used on input line 193.
+(pdftex.def)             Requested size: 331.50238pt x 104.21133pt.
+ [19 <./mapa_sitio.jpg>]
+<fuente_colores.png, id=102, 458.9145pt x 180.675pt>
+File: fuente_colores.png Graphic file (type png)
+<use fuente_colores.png>
+Package pdftex.def Info: fuente_colores.png  used on input line 203.
+(pdftex.def)             Requested size: 331.50238pt x 130.5132pt.
+<logo.jpg, id=103, 813.79031pt x 963.6pt>
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg  used on input line 209.
+(pdftex.def)             Requested size: 350.99762pt x 415.60442pt.
+ [20 <./fuente_colores.png>] [21 <./logo.jpg>]
+! Undefined control sequence.
+l.217 \par link a figma \url
+                            {https://www.figma.com/file/yCJqW1hXGkLWojVEB5c7...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.217 ...qW1hXGkLWojVEB5c7S9/Untitled?type=design&
+                                                  node-id=0-1&mode=design&t=...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.217 ...EB5c7S9/Untitled?type=design&node-id=0-1&
+                                                  mode=design&t=4i90prLvQj9c...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.217 ...tled?type=design&node-id=0-1&mode=design&
+                                                  t=4i90prLvQj9c54Nh-0}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (140.88481pt too wide) in paragraph at lines 217--218
+[]\OT1/cmr/m/n/12 link a fig-ma https://www.figma.com/file/yCJqW1hXGkLWojVEB5c7
+S9/Untitled?type=designnode-
+ []
+
+<Desktop - 1.png, id=111, 1445.4pt x 1027.84pt>
+File: Desktop - 1.png Graphic file (type png)
+<use Desktop - 1.png>
+Package pdftex.def Info: Desktop - 1.png  used on input line 221.
+(pdftex.def)             Requested size: 331.50238pt x 235.72383pt.
+! Undefined control sequence.
+l.227 \newsection
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[22 <./Desktop - 1.png>] (ProyectoDeApp.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3484 strings out of 474824
+ 63513 string characters out of 5750976
+ 1924043 words of memory out of 5000000
+ 25418 multiletter control sequences out of 15000+600000
+ 560490 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,6n,69p,219b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/shole/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><C:/Users/shole/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmcsc10.pfb><C:/Users/shole/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr12.pfb><C:/Users/shole/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on ProyectoDeApp.pdf (23 pages, 3127027 bytes).
+PDF statistics:
+ 134 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+

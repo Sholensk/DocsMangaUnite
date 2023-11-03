@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Objetivo de la aplicacion.}{2}{}%
+\contentsline {section}{\numberline {2}Requerimientos Funcionales.}{2}{}%
+\contentsline {section}{\numberline {3}Requerimientos No Funcionales.}{2}{}%
+\contentsline {section}{\numberline {4}Arquitectura.}{3}{}%
+\contentsline {section}{\numberline {5}Casos de uso.}{4}{}%
+\contentsline {section}{\numberline {6}Componentes.}{5}{}%
+\contentsline {section}{\numberline {7}Base de datos.}{6}{}%
+\contentsline {section}{\numberline {8}Diagrama de clases.}{7}{}%
+\contentsline {section}{\numberline {9}Diagrama de secuencias.}{8}{}%
+\contentsline {section}{\numberline {10}Diagrama de flujo.}{13}{}%
+\contentsline {section}{\numberline {11}Diagrama de estado.}{18}{}%
+\contentsline {section}{\numberline {12}Mapa de sitio.}{19}{}%
+\contentsline {section}{\numberline {13}Identidad.}{20}{}%
+\contentsline {section}{\numberline {14}Prototipo en figma.}{22}{}%
