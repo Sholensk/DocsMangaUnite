@@ -11,13 +11,13 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=32
-NormalPos.right=812
-NormalPos.bottom=711
+NormalPos.right=1164
+NormalPos.bottom=491
 Class=LaTeXView
 Document=ProyectoDeApp.tex
 
 [Frame0_View0,0]
-TopLine=130
+TopLine=103
 Cursor=3059
 
 [SessionInfo]
