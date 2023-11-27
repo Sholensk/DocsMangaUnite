@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    background-color: rgba(108,1,241,255);
+}
+
+img {
+    margin: 0;
+    height: 63rem;
+    position: fixed;
+}
+
+.menu {
+    background-color: rgba(93,55,138,255);
+    border-radius: 1rem;
+    position: fixed;
+    left: 59rem;
+    right: 6rem;
+    top: 6rem;
+    bottom: 6rem;
+    padding: 10rem;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu button {
+    background-color: rgba(45,27,69,255);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1rem;
+}
+
+.mainscreen p{
+    margin-top: 17rem;
+}
+
+.mainscreen button {
+    font-size: 3rem;
+    height: 7rem;
+    width: 32.5rem;
+}
+
+.login h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0;
+    font-size: 2.5rem;
+}
+
+.login .email {
+    font-size: 2rem;
+    margin-top: 14rem;
+    margin-bottom: 7rem;
+    color: white;
+}
+
+.login img {
+    position: fixed;
+    height: 15rem;
+    margin-left: 26rem;
+    margin-top: 1rem;
+}
+
+.login input[type=email] {
+    background-color: rgba(45,27,69,255);
+    border: none;
+    border-radius: 2rem;
+    height: 3rem;
+    width: 31rem;
+    color: white;
+    font-size: 2rem;
+    padding-left: 1rem;
+}
+
+.login input[type=submit] {
+    background-color: rgba(45,27,69,255);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1rem;
+    font-size: 2rem;
+    height: 3rem;
+    width: 13rem;
+}
+
+.login i {
+    margin: 3rem;
+}
+
+.login button {
+    
+    font-size: 2rem;
+    height: 3rem;
+    width: 13rem;
+}

@@ -3,8 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="description" content="pagina de inicio de sesion">
+    <link rel="stylesheet" href="./css/index.css">
+    <title>Inicio</title>
 </head>
 <body>
+    <img src="./img/Portada.webp" alt="portada">
+    <div class="menu">
+        <div id="menu" class="mainscreen">
+            <ul>
+            <li><button onclick="hide()">Usuario</button></li>
+            <p></p>
+            <li><button>Invitado</button></li>
+            </ul>
+        </div>
+        <div id="usuario" class="login">
+            <h1>Iniciar Sesión</h1>
+            <img src="./img/Diochibi.webp" alt="dio">
+            <form action="">
+                <div class="email">
+                    <label for="correo">Correo:</label>
+                <br>
+                <input id="correo" type="email" required>
+                </div>
+                <button onclick="show()">Cancelar</button>
+                <i></i>
+                <input type="submit" value="Continuar">
+            </form>
+        </div>
+    </div>
+    <script src="./js/index.js"></script>
 </body>
 </html>
