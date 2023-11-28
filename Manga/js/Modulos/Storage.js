@@ -8,13 +8,12 @@ export function firebaseStorage(app){
     const storage = getStorage(app),
     docsRef = refStorage(storage, "docs"),
     d = document,
-    $progressAdvance = d.getElementById("progress-bar"),
+   // $progressAdvance = d.getElementById("progress-bar"),
     $appStorage = d.getElementById("app-storage");
 
 
     d.addEventListener("change",(e) => {
         if(e.target.matches("#uploader")){
-            console.log(e.target);
             alert("Deberia subor un archivo se supone");
 
             let fileList = Array.from(e.target.files);
