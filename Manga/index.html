@@ -20,11 +20,11 @@
         <div id="usuario" class="login">
             <h1>Iniciar Sesión</h1>
             <img src="./img/Diochibi.webp" alt="dio">
-            <form action="">
+            <form id="signin-form">
                 <div class="email">
-                    <label for="correo">Correo:</label>
+                    <label for="correo" >Correo:</label>
                 <br>
-                <input id="correo" type="email" required>
+                <input id="correo" type="email" id="signin-email" required>
                 </div>
                 <button onclick="show()">Cancelar</button>
                 <i></i>
@@ -33,5 +33,6 @@
         </div>
     </div>
     <script src="./js/index.js"></script>
+    <script type="module" src="./js/main.js"></script>
 </body>
 </html>

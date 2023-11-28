@@ -1,6 +1,6 @@
 import { createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-auth.js"
-import { auth } from "./appconfig.js";
-import { Mensajes} from "./mensajedeerror.js";
+import { auth } from "./appconfig.js"
+import {Mensajes} from "./mensajedeerror.js";
 
 export function registrarse () {
 const signUpForm = document.querySelector("#signup-form");

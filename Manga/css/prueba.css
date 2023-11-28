@@ -1,0 +1,17 @@
+.img-portada{
+    width: 1000px;
+    height: auto;
+}
+
+.titulo-navbar{
+color: white;
+}
+
+.title-modulo{
+    color: white;
+}
+
+.img-carrusel{
+    max-width: 60px;
+    max-height: auto;
+}
