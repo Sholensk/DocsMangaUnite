@@ -1,5 +1,5 @@
-import {app} from "./modulos/appconfig.js";
-import { auth } from "./modulos/appconfig.js";
-import { recuperar } from "./modulos/recuperar.js";
+import {app} from "./Modulos/appconfig.js";
+import { auth } from "./Modulos/appconfig.js";
+import { recuperar } from "./Modulos/recuperar.js";
 
 recuperar(app);
