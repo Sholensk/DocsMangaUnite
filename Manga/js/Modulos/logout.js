@@ -10,9 +10,14 @@ salir.addEventListener('click', async (e) => {
 
     try {
         await signOut(auth)
+        cambio();
     console.log("Hizo logout")
     } catch (error) {
         console.log(error)
     }    
 });
+function cambio(){
+    console.log("1");
+    window.location.href = "/DocsMangaUnite/Manga/prueba.html";
+  }
 }

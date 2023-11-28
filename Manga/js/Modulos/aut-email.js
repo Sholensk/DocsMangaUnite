@@ -44,7 +44,7 @@ SigninForm.addEventListener('submit', async (e) => {
 
 function cambio(){
   console.log("1");
-  window.location.href = "DocsMangaUnite/Manga/HTML/home.html";
+  window.location.href = "/DocsMangaUnite/Manga/HTML/home.html";
 }
 
 }
