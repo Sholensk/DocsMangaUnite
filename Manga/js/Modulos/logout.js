@@ -18,6 +18,6 @@ salir.addEventListener('click', async (e) => {
 });
 function cambio(){
     console.log("1");
-    window.location.href = "/DocsMangaUnite/Manga/prueba.html";
+    window.location.href = "/DocsMangaUnite/Manga/index.html";
   }
 }
