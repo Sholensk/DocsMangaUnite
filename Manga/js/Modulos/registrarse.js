@@ -22,6 +22,8 @@ signUpForm.addEventListener('submit', async (e) => {
 
     Mensajes("Bienvenido" + userCredential.user.email)
 
+    cambio();
+
   } catch (error) {
     console.log(error.code)
     console.log(error.message)
@@ -41,4 +43,8 @@ signUpForm.addEventListener('submit', async (e) => {
     }
 });
 
+function cambio(){
+  console.log("1");
+  window.location.href = "/DocsMangaUnite/Manga/HTML/home.html";
+}
 }
