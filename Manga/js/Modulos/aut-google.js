@@ -19,9 +19,16 @@ export function autgoogle(){
 
             Mensajes("Bienvenido " + credentials.user.displayName, 'success')
 
+            cambio();
+
         } catch (error) {
             console.log(error)
         }
     })
+
+    function cambio(){
+        console.log("1");
+        window.location.href = "/DocsMangaUnite/Manga/HTML/home.html";
+      }
 
 }

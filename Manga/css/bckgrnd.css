@@ -7,3 +7,8 @@ body{
     background-color: #40364D;
 
 }
+
+.img-cards {
+    max-width: 600px;
+    max-height: 900px;
+}
